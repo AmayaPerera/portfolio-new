@@ -109,7 +109,7 @@ const projects = [
     title: 'House of Granites',
     category: 'QA',
     image: '/HOGQA.png',
-    tags: ['Manual Testing', 'Selenium'],
+    tags: ['Manual Testing'],
     description:
       'Tested website functionality and mobile responsiveness for House Granite.',
     github: null,
